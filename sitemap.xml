@@ -3,65 +3,40 @@
 	<url>
 		<loc>https://www.razingtech.com</loc>
 		<priority>1.00</priority>
-		<lastmod>2023-11-05</lastmod>
+		<lastmod>2023-11-06</lastmod>
 	</url>
 	<url>
-		<loc>https://www.razingtech.com/pricing.html</loc>
+		<loc>https://www.razingtech.com/404.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/medchat.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/main.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/hosting.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/educhat.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/customchat.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/contact.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/chatbots.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/blog.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/blog-details.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
+		<lastmod>2023-10-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.razingtech.com/about.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-11-05</lastmod>
+		<lastmod>2023-10-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.razingtech.com/404.html</loc>
+		<loc>https://www.razingtech.com/chatbots.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-11-02</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/contact.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-11-03</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/customchat.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-11-01</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/educhat.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-11-04</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/medchat.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-11-05</lastmod>
 	</url>
