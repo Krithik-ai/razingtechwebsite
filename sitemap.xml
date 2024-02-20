@@ -6,38 +6,38 @@
 		<lastmod>2024-02-20</lastmod>
 	</url>
 	<url>
-		<loc>https://www.razingtech.com/medchat.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2024-02-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/educhat.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2024-02-14</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/kairos.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-12-30</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/contact.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2024-02-16</lastmod>
-	</url>
-	<url>
-		<loc>https://www.razingtech.com/about.html</loc>
+		<loc>https://www.razingtech.com/products.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2024-02-19</lastmod>
 	</url>
 	<url>
 		<loc>https://www.razingtech.com/404.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2024-02-15</lastmod>
+		<lastmod>2024-02-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.razingtech.com/products.html</loc>
+		<loc>https://www.razingtech.com/about.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-14</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/contact.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2024-02-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/kairos.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-12-25</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/educhat.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-16</lastmod>
+	</url>
+	<url>
+		<loc>https://www.razingtech.com/medchat.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-12</lastmod>
 	</url>
 </urlset>
